@@ -1,2 +1,2 @@
-# netflix-notebook-analyses
-Jupyter-Notebook illustration and predictions of the netflix-title dataset
+# cryptocurrency-notebook-analyses
+Jupyter-Notebook illustrations and predictions of the different cryptocurrency-datasets
